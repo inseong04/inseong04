@@ -8,9 +8,14 @@
 
 ### Profile
 
-* __선린인터넷고등학교 소프트웨어과__ 재학중
+* I am attending __Sunrin Internet High School, Software Division__
 
-* __안드로이드 개발__ 분야 전공
+* Major in __Android Development__
 
+* App:ple Pi, 11th __Vice President__
+
+### Contacts
+
+* insung04@kakao.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseong04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
