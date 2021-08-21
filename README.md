@@ -8,7 +8,7 @@
 
 ### Profile
 
-* __Sunrin Internet High School, Software Division 119th__
+* __Sunrin Internet High School, Software Division 115th__
 
 * Major in __Android Development__
 
