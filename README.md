@@ -8,7 +8,7 @@
 
 ### Profile
 
-* I am attending __Sunrin Internet High School, Software Division__
+* __Sunrin Internet High School, Software Division 115th__
 
 * Major in __Android Development__
 
