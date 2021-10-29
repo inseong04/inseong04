@@ -21,7 +21,6 @@
 * Python
 * JavaScript
 * C
-* 
 
 ### Contacts
 
