@@ -14,11 +14,18 @@
 
 * App:ple Pi, 11th __Vice President__
 
+### Use language
+
+* Java
+* Kotlin
+* Python
+* JavaScript
+* C
+* 
+
 ### Contacts
 
 * insung04@kakao.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseong04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseong04&count_private=true&hide=stars,prs)
 
