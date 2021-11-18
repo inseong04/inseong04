@@ -14,14 +14,6 @@
 
 * App:ple Pi, 11th __Vice President__
 
-### Use language
-
-* Java
-* Kotlin
-* Python
-* JavaScript
-* C
-
 ### Contacts
 
 * insung04@kakao.com
